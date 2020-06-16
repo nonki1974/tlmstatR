@@ -1,0 +1,11 @@
+Package: tlmstatR
+Type: Package
+Title: Creating Teaching / Learning Materials for Statistics with R
+Version: 0.1.0
+Author: Tomokazu FUJINO
+Maintainer: Tomokazu FUJINO <fujino@fwu.ac.jp>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
